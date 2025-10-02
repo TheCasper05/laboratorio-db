@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+.env
+init-db/data.csv
+db_data/
+*.log
+.DS_Store
